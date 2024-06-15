@@ -56,3 +56,5 @@ const InboundCall = () => {
 };
 
 export default InboundCall;
+
+//next, insert correct dir, secrets, deploy and test to confirm functionality before moving on to v1.2
