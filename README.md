@@ -55,21 +55,21 @@ Backend Setup
 
 1. Clone the repository:
 
-git clone https://github.com/irakusaReo/callscribe.git
-cd callscribe
+- git clone https://github.com/irakusaReo/callscribe.git
+- cd callscribe
 
 2. Install backend dependencies:
 
-cd server
-npm install
+- cd server
+-  install
 
 3. Set up environment variables:
 Create a .env file in the server directory and add the following:
 
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
+- MONGO_URI=your_mongodb_uri
+- JWT_SECRET=your_jwt_secret
 
 4. Start the backend server:
 
-npm start
+- npm start
 
